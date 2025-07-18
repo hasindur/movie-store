@@ -1,4 +1,5 @@
 import './App.css'
+import MovieCart from './components/MovieCard.jsx'
 
 function App() {
   return (
