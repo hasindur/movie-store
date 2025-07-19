@@ -3,9 +3,11 @@ import MovieCart from './components/MovieCard.jsx'
 
 function App() {
   return (
-    <div>
-      <h1>hello</h1>
-    </div>
+    <>
+      <MovieCart movie={{ Title: "The Matrix 01", release_date: "1999" }} />
+
+
+    </>
 
   )
 }
