@@ -1,3 +1,5 @@
+
+
 function Favorites() {
     return (
         <div className="fav">

@@ -1,4 +1,4 @@
-import './App.css'
+import './css/App.css'
 import Favorites from './pages/Favorites.jsx'
 import Home from './pages/Home.jsx'
 import NavBar from './components/NavBar.jsx'

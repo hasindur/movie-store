@@ -1,3 +1,5 @@
+
+
 function MovieCart({ movie }) {
     function onFavoriteClick() {
         alert("Clicked on favorite");
